@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_1.py added">
-      <change afterPath="$PROJECT_DIR$/leson_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson_2/leson_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson_2/math.py" afterDir="false" />
+    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_2.py added&#10;math.py added">
+      <change afterPath="$PROJECT_DIR$/leson_2/HW.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HW.executor": "Run",
     "Python.leson_2.executor": "Run",
     "Python.lesson_1.executor": "Run",
     "Python.math.executor": "Run",
@@ -66,7 +65,29 @@
       <recent name="$PROJECT_DIR$/leson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leson_2">
+  <component name="RunManager" selected="Python.HW">
+    <configuration name="HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python(basic)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leson_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_2/HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="leson_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python(basic)" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW" />
         <item itemvalue="Python.leson_2" />
         <item itemvalue="Python.math" />
         <item itemvalue="Python.lesson_1" />
@@ -165,11 +187,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725005759513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson_2.py added&#10;math.py added">
+      <option name="closed" value="true" />
+      <created>1725043800355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725043800355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_1.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_1.py added" />
+    <MESSAGE value="lesson_2.py added&#10;math.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_2.py added&#10;math.py added" />
   </component>
 </project>
