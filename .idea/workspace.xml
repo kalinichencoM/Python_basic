@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_2.py added&#10;math.py added">
-      <change afterPath="$PROJECT_DIR$/leson_2/HW.py" afterDir="false" />
+    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_2 HW added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leson_2/HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/leson_2/HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,9 @@
     "accountId": "52d04768-78a7-4b9c-acfc-9d2b3b2da6a5"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -195,12 +198,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725043800355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson_2 HW added">
+      <option name="closed" value="true" />
+      <created>1725046399720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725046399720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_1.py added" />
     <MESSAGE value="lesson_2.py added&#10;math.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_2.py added&#10;math.py added" />
+    <MESSAGE value="lesson_2 HW added" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_2 HW added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leson_2/HW.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
