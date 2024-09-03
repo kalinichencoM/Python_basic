@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_2 HW added">
-      <change afterPath="$PROJECT_DIR$/leson_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson_3/leson_3.py" afterDir="false" />
+    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="leson_3.py was added">
+      <change afterPath="$PROJECT_DIR$/leson_3/HW_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW.executor": "Run",
+    "Python.HW_3.executor": "Run",
     "Python.leson_2.executor": "Run",
     "Python.leson_3.executor": "Run",
     "Python.lesson_1.executor": "Run",
@@ -70,7 +70,7 @@
       <recent name="$PROJECT_DIR$/leson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leson_3">
+  <component name="RunManager" selected="Python.HW_3">
     <configuration name="HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python(basic)" />
       <option name="ENV_FILES" value="" />
@@ -85,6 +85,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_2/HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python(basic)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leson_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_3/HW_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,28 +159,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python(basic)" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python(basic)" />
       <option name="ENV_FILES" value="" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW_3" />
         <item itemvalue="Python.leson_3" />
         <item itemvalue="Python.HW" />
         <item itemvalue="Python.leson_2" />
         <item itemvalue="Python.math" />
-        <item itemvalue="Python.lesson_1" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725046399720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leson_3.py was added">
+      <option name="closed" value="true" />
+      <created>1725102158796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725102158796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_1.py added" />
     <MESSAGE value="lesson_2.py added&#10;math.py added" />
     <MESSAGE value="lesson_2 HW added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_2 HW added" />
+    <MESSAGE value="leson_3.py was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="leson_3.py was added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
