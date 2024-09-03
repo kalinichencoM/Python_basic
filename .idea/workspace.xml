@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="lesson_2 HW added">
+    <list default="true" id="71d339b3-74f7-4baa-a5c6-0c7d9e0a601c" name="Changes" comment="leson_3.py was added">
+      <change afterPath="$PROJECT_DIR$/leson_3/HW_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leson_2/HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/leson_2/HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +28,24 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kalinichencoM"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kalinichencoM&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kalinichencoM/Python_basic.git",
-    "accountId": "52d04768-78a7-4b9c-acfc-9d2b3b2da6a5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kalinichencoM/Python_basic.git&quot;,
+    &quot;accountId&quot;: &quot;52d04768-78a7-4b9c-acfc-9d2b3b2da6a5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lMzGlveEsNVIQPHqTpyelUC3sb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,11 +55,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW.executor": "Run",
+    "Python.HW_3.executor": "Run",
     "Python.leson_2.executor": "Run",
+    "Python.leson_3.executor": "Run",
     "Python.lesson_1.executor": "Run",
     "Python.math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "leson__2",
+    "git-widget-placeholder": "leson__3",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -68,7 +70,7 @@
       <recent name="$PROJECT_DIR$/leson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW">
+  <component name="RunManager" selected="Python.HW_3">
     <configuration name="HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python(basic)" />
       <option name="ENV_FILES" value="" />
@@ -83,6 +85,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_2/HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python(basic)" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leson_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_3/HW_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leson_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python(basic)" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leson_3/leson_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,10 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW_3" />
+        <item itemvalue="Python.leson_3" />
         <item itemvalue="Python.HW" />
         <item itemvalue="Python.leson_2" />
         <item itemvalue="Python.math" />
-        <item itemvalue="Python.lesson_1" />
       </list>
     </recent_temporary>
   </component>
@@ -206,14 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725046399720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leson_3.py was added">
+      <option name="closed" value="true" />
+      <created>1725102158796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725102158796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson_1.py added" />
     <MESSAGE value="lesson_2.py added&#10;math.py added" />
     <MESSAGE value="lesson_2 HW added" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_2 HW added" />
+    <MESSAGE value="leson_3.py was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="leson_3.py was added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
